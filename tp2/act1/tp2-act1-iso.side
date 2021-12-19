@@ -1,0 +1,70 @@
+{
+  "id": "99d384a9-8dff-4e7e-84a9-dcf06ca19227",
+  "version": "2.0",
+  "name": "tp2-act1-iso",
+  "url": "http://www.insat.rnu.tn",
+  "tests": [{
+    "id": "f881fb4a-c274-475e-ae8f-7e13e7c609ae",
+    "name": "test-insat-vote",
+    "commands": [{
+      "id": "72d93e52-a5f7-4f1a-80f8-d094e84c2e80",
+      "comment": "",
+      "command": "open",
+      "target": "/Fr/accueil_46_34",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "554c00f7-63d2-463f-8aa3-d988815121cf",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x740",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e0f38cf-d107-43be-b76e-5b9e0de816fc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.body_index",
+      "targets": [
+        ["css=.body_index", "css:finder"],
+        ["xpath=//body/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bd51f9fa-024f-4005-9c7a-bd0e458e796b",
+      "comment": "",
+      "command": "click",
+      "target": "id=8",
+      "targets": [
+        ["id=8", "id"],
+        ["css=#\\38", "css:finder"],
+        ["xpath=//input[@id='8']", "xpath:attributes"],
+        ["xpath=//div[@id='sondage_index3']/table/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b5426bc0-b90f-4705-9f6b-3e7fae1be11e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.margin_top5 > .btn_gris2 span",
+      "targets": [
+        ["css=.margin_top5 > .btn_gris2 span", "css:finder"],
+        ["xpath=//div[@id='sondage_index3']/div/div/a/span", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Votez')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "3406f99f-52c8-4203-b2ad-899bcc9e89e9",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["f881fb4a-c274-475e-ae8f-7e13e7c609ae"]
+  }],
+  "urls": ["http://www.insat.rnu.tn/"],
+  "plugins": []
+}

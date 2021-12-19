@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55b37ec1-209f-45f3-b25f-2141227d5660" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/act1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/example/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/example/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/example/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/DatabaseWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/EncodingModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/EncodingModuleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/IReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/IWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/MyDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/NetworkReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/DIP/exercice/beforeEncryption.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/example/Feedable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/example/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/example/MessHall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/example/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/example/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/exercice/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/exercice/Sensing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/exercice/SensingDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/exercice/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/exercice/Timed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/exercice/TimedDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/ISP/exercice/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/LSP/example/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/LSP/example/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/LSP/exercice/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/LSP/exercice/ElectronicDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/LSP/exercice/IDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/LSP/exercice/Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/example/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/example/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/example/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/example/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/exercice/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/exercice/ResourceAllocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/exercice/SpaceResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/OCP/exercice/TimeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/example/EmployeeParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/example/TagBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/exercice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/exercice/CarDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/exercice/CarFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/exercice/CarManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act1/src/SRP/exercice/CarRater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/act2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/DIP/Emailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/DIP/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/DIP/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/DIP/WeatherTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/ISP/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/ISP/Feathered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/ISP/Flying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/ISP/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/ISP/Swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/LSP/BedroomAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/LSP/PenthouseSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/LSP/Studio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/OCP/CasualGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/OCP/FormalGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/OCP/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/OCP/IntimateGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/SRP/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/SRP/BoardFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp1/act2/src/SRP/BoardTrasformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tunisianet/iso/TunisianetTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22NB2DxLDocPEbanrYuoSr4wYjg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TunisianetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tunisianet.iso.TunisianetTest" />
+      <module name="HelloSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tunisianet.iso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TunisianetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b37ec1-209f-45f3-b25f-2141227d5660" name="Changes" comment="" />
+      <created>1639667956933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639667956933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

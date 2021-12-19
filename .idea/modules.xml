@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tp2/act2/HelloSelenium/HelloSelenium.iml" filepath="$PROJECT_DIR$/tp2/act2/HelloSelenium/HelloSelenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp3/act1/act1.iml" filepath="$PROJECT_DIR$/tp3/act1/act1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp3/act2/act2.iml" filepath="$PROJECT_DIR$/tp3/act2/act2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tps-software-quality.iml" filepath="$PROJECT_DIR$/.idea/tps-software-quality.iml" />
+    </modules>
+  </component>
+</project>
